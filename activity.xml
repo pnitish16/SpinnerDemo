@@ -1,0 +1,10 @@
+ <Spinner
+                        android:id="@+id/spinner"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:fontFamily="calibri"
+                        android:layout_centerHorizontal="true"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:popupBackground="@drawable/selector_all"
+                        android:spinnerMode="dropdown" />
